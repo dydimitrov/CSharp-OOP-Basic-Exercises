@@ -1,0 +1,11 @@
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\bin\Debug\netcoreapp2.0\P10_SalesMan.deps.json
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\bin\Debug\netcoreapp2.0\P10_SalesMan.runtimeconfig.json
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\bin\Debug\netcoreapp2.0\P10_SalesMan.runtimeconfig.dev.json
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\bin\Debug\netcoreapp2.0\P10_SalesMan.dll
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\bin\Debug\netcoreapp2.0\P10_SalesMan.pdb
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\obj\Debug\netcoreapp2.0\P10_SalesMan.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\obj\Debug\netcoreapp2.0\P10_SalesMan.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\obj\Debug\netcoreapp2.0\P10_SalesMan.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\obj\Debug\netcoreapp2.0\P10_SalesMan.AssemblyInfo.cs
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\obj\Debug\netcoreapp2.0\P10_SalesMan.dll
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\P10_SalesMan\obj\Debug\netcoreapp2.0\P10_SalesMan.pdb
