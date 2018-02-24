@@ -1,0 +1,11 @@
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\P11_PokemonTrainer.deps.json
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\P11_PokemonTrainer.runtimeconfig.json
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\P11_PokemonTrainer.runtimeconfig.dev.json
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\P11_PokemonTrainer.dll
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\P11_PokemonTrainer.pdb
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\P11_PokemonTrainer.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\P11_PokemonTrainer.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\P11_PokemonTrainer.AssemblyInfoInputs.cache
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\P11_PokemonTrainer.AssemblyInfo.cs
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\P11_PokemonTrainer.dll
+c:\users\admin\source\repos\OOPBasicsExDefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\P11_PokemonTrainer.pdb
