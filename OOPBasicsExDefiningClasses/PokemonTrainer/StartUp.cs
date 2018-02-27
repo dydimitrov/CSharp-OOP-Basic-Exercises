@@ -28,7 +28,39 @@ namespace P11_PokemonTrainer
                 listOfTrainers.Add(currentTrainer);
                 command = Console.ReadLine();
             }
-            Console.ReadKey();
+
+            var secondCommand = Console.ReadLine();
+
+            while (secondCommand != "End")
+            {
+                foreach (var trainer in listOfTrainers)
+                {
+                    bool hasPokemon = false;
+                    foreach (var poke in trainer.ListOfPokemons)
+                    {
+                        if (poke.Element.ToLower() == secondCommand.ToLower())
+                        {
+                            hasPokemon = true;
+                            trainer.Badges++;
+                        }
+                    }
+                    if (hasPokemon == false )
+                    {
+                        foreach (var pokemon in trainer.ListOfPokemons)
+                        {
+                            if ((pokemon.Health-10)>0)
+                            {
+                                pokemon.Health -= 10;
+                            }
+                            else
+                            {
+                                trainer.ListOfPokemons.Remove(pokemon);
+                            }
+                        }
+                    }
+                }
+                secondCommand = Console.ReadLine();
+            }
         }
     }
 }
